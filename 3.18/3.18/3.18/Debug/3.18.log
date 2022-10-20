@@ -1,0 +1,3 @@
+﻿  3.18.c
+c:\users\user\onedrive\文件\ntut-高階程式語言實習\ch3-4homework\3.18\3.18\3.18\3.18.c(11): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  3.18.vcxproj -> C:\Users\USER\OneDrive\文件\ntut-高階程式語言實習\CH3-4HomeWork\3.18\3.18\Debug\3.18.exe
